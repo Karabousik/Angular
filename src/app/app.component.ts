@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  isVisible = false;
+  isVisible = true;
   title = 'My First Angular App!';
   myText = "Моя первая программа";
 
